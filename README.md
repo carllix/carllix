@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🌱 I’m currently learning Software Engineering and Cyber Security<br>📫 How to reach me carloangkisan21@gmail.com
 
