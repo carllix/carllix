@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Software Engineering and Cyber Security<br>📫 How to reach me carloangkisan21@gmail.com
+🌱 I’m currently learning Software Engineering and Machine Learning<br>📫 How to reach me carloangkisan21@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlooangkisan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carloangkisan) 
